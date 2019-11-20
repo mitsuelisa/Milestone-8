@@ -1,0 +1,12 @@
+name: CDMX_Water
+title: CDMX_Water
+username:
+account: mitsuelisa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1503808
+bundleId: 2605452
+url: https://mitsuelisa.shinyapps.io/CDMX_Water/
+when: 1574293144.75981
+asMultiple: FALSE
+asStatic: FALSE
